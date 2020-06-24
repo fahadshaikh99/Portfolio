@@ -1,0 +1,16 @@
+.Portfolio-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    width: 100%;
+    flex-direction: column;
+}
+
+
+.Portfolio-title p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
