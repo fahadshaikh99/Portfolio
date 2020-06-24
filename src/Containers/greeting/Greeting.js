@@ -1,6 +1,6 @@
 ﻿﻿import React from "react";
 import "./Greeting.css";
-import Button from '../Button/Button';
+import Button from '../../components/Button/Button';
 import {Fade} from "react-reveal";
 
 export default function Greeting() {

@@ -1,10 +1,11 @@
 import React from "react";
 import "./Portfolio.css";
 import {Fade} from "react-reveal";
+import MobileDevice from '../../components/MobileComp/MobileDevice';
 
 export default function Skills() {
   return (
-    <div className="main" id="portfolio">
+    <div className="protfolio" id="portfolio">
       <div className="Portfolio-title"> 
         <h1>
             Portfolio
@@ -14,8 +15,12 @@ export default function Skills() {
         </p>
       </div>
 
-      <div>
-        
+      <div className="Project-section">
+          <div className="device-comp">
+            <MobileDevice />
+            <MobileDevice />
+            <MobileDevice />
+          </div>
       </div>
     </div>
   );

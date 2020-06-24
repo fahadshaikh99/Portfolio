@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: gray;
+    background-color: #f5e9c9;
     width: 100%;
     flex-direction: column;
 }
@@ -13,4 +13,14 @@
     justify-content: center;
     align-items: center;
     padding: 10px;
+}
+
+.Project-section {
+    width: auto;
+    background-color: rgb(246, 120, 250);
+    height: 700px;
+}
+.device-comp {
+    display: flex;
+    flex-direction: row;
 }

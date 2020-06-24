@@ -1,8 +1,8 @@
 import React from 'react';
-import Header from './Header/Header';
-import Greeting from './greeting/Greeting';
-import Skills from './Skills/Skills';
-import Portfolio from './Portfolio/Portfolio';
+import Header from './Containers/Header/Header';
+import Greeting from './Containers/greeting/Greeting';
+import Skills from './Containers/Skills/Skills';
+import Portfolio from './Containers/Portfolio/Portfolio';
 
 const App = () => {
     return(

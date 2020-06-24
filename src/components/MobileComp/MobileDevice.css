@@ -1,0 +1,22 @@
+.mobile-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.device-style img{
+    width: 400px;
+    height: 400px;
+}
+.title-app h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app-details h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1px 19px 3px;
+}
