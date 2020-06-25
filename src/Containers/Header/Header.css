@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Agustina';
+  src: url('fonts/Agustina.woff');
+}
+
 
 .header {
     max-width: 100%;
@@ -41,7 +46,7 @@
     line-height: normal;
   }
   .header .logo-name {
-    font-family: 'Agustina Regular';
+    font-family: 'Agustina';
     font-weight: bold;
     padding: 0 10px;
     color: white;
