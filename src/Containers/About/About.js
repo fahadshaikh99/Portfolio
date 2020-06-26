@@ -6,7 +6,7 @@ export default function About() {
     
         <div className="About-section" id="about">
             <div className="title">
-                <h1>About</h1>
+                <h1>About me</h1>
             </div>
             <div className="details">
                 <h3>

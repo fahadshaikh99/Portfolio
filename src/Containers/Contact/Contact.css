@@ -1,0 +1,122 @@
+
+  .contact-main {
+    width: 100%;
+    margin: 0px auto;
+    background-color: black;
+  }
+  
+  .detail-main > * {
+    flex: 1;
+    margin-bottom: 490px;
+  }
+  
+  .detail-main {
+    display: flex;
+    margin-left: 24%;
+  
+
+  }
+  .text-box {
+      margin-top: 10%;
+  }
+  .name-text {
+      color: white;
+      font-size: 50px;
+  }
+  .location-text {
+      color: rgb(129, 129, 129);
+      font-size: 20px;
+  }
+  .contact-details {
+      margin-top: 11%;
+      font-size: 21px;
+      color: rgb(129, 129, 129);
+  }
+  .email-p {
+      font-size: 21px;
+      color: white;
+  }
+
+
+
+
+
+
+
+
+
+  
+
+/*   
+  .name-text {
+    font-size: 70px;
+    line-height: 1.1;
+  }
+  
+  .name-text-p {
+    font-size: 25px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    color: white;
+  }
+
+  .name-text-p2 {
+    font-size: 20px;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  } */
+
+
+   
+  /* @keyframes wave {
+    0% {
+      transform: rotate(0deg);
+    }
+    10% {
+      transform: rotate(-10deg);
+    }
+    20% {
+      transform: rotate(12deg);
+    }
+    30% {
+      transform: rotate(-10deg);
+    }
+    40% {
+      transform: rotate(9deg);
+    }
+    50% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+   */
+  /* Media Query */
+  /* @media (max-width: 1380px) {
+    .greeting-text {
+      font-size: 50px;
+    }
+    .greeting-text-p {
+      font-size: 20px;
+    }
+  }
+  @media (max-width: 768px) {
+    .button-greeting-div {
+      justify-content: space-around;
+    }
+    .greeting-text {
+      font-size: 30px;
+      text-align: center;
+    }
+    .greeting-text-p {
+      font-size: 16px;
+      line-height: normal;
+      text-align: center;
+    }
+    .greeting-main {
+      display: block;
+    }
+  } */

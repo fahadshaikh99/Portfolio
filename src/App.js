@@ -4,6 +4,7 @@ import Greeting from './Containers/greeting/Greeting';
 import Skills from './Containers/Skills/Skills';
 import Portfolio from './Containers/Portfolio/Portfolio';
 import About from './Containers/About/About';
+import Contact from './Containers/Contact/Contact';
 
 const App = () => {
     return(
@@ -13,6 +14,7 @@ const App = () => {
           <Skills />
           <Portfolio />
           <About />
+          <Contact />
         </div>
         
     );
