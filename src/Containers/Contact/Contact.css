@@ -7,7 +7,7 @@
   
   .detail-main > * {
     flex: 1;
-    margin-bottom: 490px;
+    margin-bottom: 200px;
   }
   
   .detail-main {
@@ -37,8 +37,22 @@
       color: white;
   }
 
+  .github-image img{
+       height: 50px;
+       width: 50px;
+       
+  }
+  .social-contact {
+      display: flex;
+      flex-direction: row;
+  }
 
 
+  .linkdn-image img{
+    height: 50px;
+    width: 50px;
+    margin-left: 19px;
+  }
 
 
 
