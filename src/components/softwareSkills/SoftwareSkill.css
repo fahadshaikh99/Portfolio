@@ -1,7 +1,7 @@
 .dev-icons {
     padding-left: 0;
     list-style: none;
-    font-size: 3rem;
+    font-size: 4.5rem;
     margin-bottom: 0px;
     margin-top: 0px;
     text-align: center;
@@ -26,4 +26,8 @@
   }
   .software-skill-inline > i:hover ~ p{
     color: #645beb;
+  }
+  .skills-title h1{
+    text-align: center;
+    margin-top: 10px;
   }

@@ -48,15 +48,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "react-native",
       fontAwesomeClassname: "fab fa-react"
     },
     {
@@ -64,21 +60,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
+
     {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
@@ -88,11 +73,36 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github"
+    },
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+  ],
+  
+
+  designSkills: [
+    {
+      skillName: "Figma",
+      fontAwesomeClassname: "fab fa-figma"
+    },
+    {
+      skillName: "Adobe XD",
+      fontAwesomeClassname: "fab fa-adobe"
+    },
+    {
+      skillName: "Adobe Illustrator",
+      fontAwesomeClassname: "fab fa-bezier-curve"
+    },
+  
   ]
 };
+
+
+
+
 
 // Your top 3 proficient stacks/tech experience
 
