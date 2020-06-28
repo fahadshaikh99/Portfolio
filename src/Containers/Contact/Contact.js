@@ -11,9 +11,9 @@ export default function Contact () {
                     <Fade right duration={1000} >
                         <div className="text-box">
                             <h1 className="name-text">
-                            {" "}
-                            Fahad Shaikh
-                            {" "} 
+                                {" "}
+                                Fahad Shaikh
+                                {" "} 
                             </h1>
                             <p className="location-text">
                                 Developer and Designer

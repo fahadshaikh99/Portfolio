@@ -5,13 +5,14 @@ import Skills from './Containers/Skills/Skills';
 import Portfolio from './Containers/Portfolio/Portfolio';
 import About from './Containers/About/About';
 import Contact from './Containers/Contact/Contact';
+import MySkills from './Containers/MySkills/MySkills';
 
 const App = () => {
     return(
         <div>
           <Header />
           <Greeting />
-          <Skills />
+          <MySkills />
           <Portfolio />
           <About />
           <Contact />
