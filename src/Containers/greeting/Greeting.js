@@ -16,7 +16,7 @@ export default function Greeting() {
               {" "} 
             </h1>
             <p className="greeting-text-p subTitle">I'm a Pakistan based React Native mobile apps <br />
-            developer and UX/UI designer.</p>
+            developer and designer.</p>
             <p className="greeting-text-p2 subTitle">I enjoy coding, designing mobile apps and turning complex problem into simple.</p>
             <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />

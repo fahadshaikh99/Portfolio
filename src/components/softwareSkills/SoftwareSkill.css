@@ -12,6 +12,16 @@
     margin-right: 20px;
     margin-bottom: 20px;
   }
+  .dev-icons-design {
+    padding-left: 0;
+    list-style: none;
+    font-size: 4.5rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+    display: flex;
+      
+  }
   
   .software-skill-inline > i {
     color: #868e96;
@@ -22,7 +32,7 @@
   }
   .software-skill-inline > p {
     color: #868e96;
-    font-size: 10px;
+    font-size: 20px;
   }
   .software-skill-inline > i:hover ~ p{
     color: #645beb;
@@ -30,4 +40,15 @@
   .skills-title h1{
     text-align: center;
     margin-top: 10px;
+  }
+
+  .software-skills-main-div {
+    display: flex;
+    justify-content: space-between;
+  }
+  .skills-cont {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
   }
