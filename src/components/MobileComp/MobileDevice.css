@@ -6,17 +6,31 @@
 }
 
 .device-style img{
+    margin-top: 10px;
     width: 400px;
-    height: 400px;
+    height: 450px;
+    margin-left: 8%;
 }
 .title-app h1 {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    color: white;
 }
 .app-details h4 {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
     margin: 1px 19px 3px;
+    color: white;
+}
+
+.github-icon {
+    display: flex;
+    justify-content: center;
+}
+.github-icon img{
+    height: 50px;
+    width: 50px;
+    
 }

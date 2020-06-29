@@ -2,6 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import {Fade} from "react-reveal";
 import MobileDevice from '../../components/MobileComp/MobileDevice';
+import Button from '../../components/Button/Button';
 
 export default function Skills() {
   return (
@@ -21,7 +22,11 @@ export default function Skills() {
             <MobileDevice />
             <MobileDevice />
           </div>
+          <div className="project-button">
+            <Button text="View More Projects" href="#contact" />
+          </div>
       </div>
+
     </div>
   );
 }

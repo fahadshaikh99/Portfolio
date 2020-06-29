@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f5e9c9;
+    background-color: rgb(165, 165, 165);
     width: 100%;
     flex-direction: column;
 }
@@ -10,17 +10,22 @@
 
 .Portfolio-title p {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    margin-bottom: 2%;
 }
 
 .Project-section {
     width: auto;
-    background-color: rgb(246, 120, 250);
+    background-color: rgb(12, 12, 12);
     height: 700px;
 }
 .device-comp {
     display: flex;
     flex-direction: row;
+}
+.project-button {
+    align-items: center;
+    justify-content: center;
 }
