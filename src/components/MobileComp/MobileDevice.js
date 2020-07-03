@@ -5,11 +5,11 @@ export default function MobileDevice() {
     return (
         <div className="mobile-section">
             <div className="title-app">
-                <h1>Tracking App</h1>
+                <h2>Tracking App</h2>
                 <div className="app-details">
-                    <h4>
+                    <h6>
                         Created Tracking app in react native using maps API, nodejs and mongodb. 
-                    </h4>
+                    </h6>
                 </div>
                 <div className="device-style">
                     <img src="https://www.pngmart.com/files/8/Apple-iPhone-PNG-Pic-Background.png" />

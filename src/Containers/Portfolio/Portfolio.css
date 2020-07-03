@@ -2,9 +2,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(165, 165, 165);
+    background-color: rgb(12, 12, 12);
     width: 100%;
     flex-direction: column;
+}
+
+.Portfolio-title h1{
+    color: white;
+    font-size: 50px;
 }
 
 
@@ -14,11 +19,13 @@
     margin-right: 20%;
     text-align: center;
     margin-bottom: 2%;
+    color: white;
+    font-size: 20px;
 }
 
 .Project-section {
     width: auto;
-    background-color: rgb(12, 12, 12);
+    background-color: black;
     height: 700px;
 }
 .device-comp {
@@ -26,6 +33,7 @@
     flex-direction: row;
 }
 .project-button {
+    margin-top: 42px;
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;

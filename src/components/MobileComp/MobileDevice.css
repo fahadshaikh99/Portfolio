@@ -11,18 +11,20 @@
     height: 450px;
     margin-left: 8%;
 }
-.title-app h1 {
+.title-app h2 {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     color: white;
 }
-.app-details h4 {
+.app-details h6 {
     display: flex;
     text-align: center;
     margin: 1px 19px 3px;
     color: white;
+    margin-left: 2px;
+    margin-right: 2px;
 }
 
 .github-icon {
