@@ -26,11 +26,11 @@
 .Project-section {
     width: auto;
     background-color: black;
-    height: 700px;
+    
 }
 .device-comp {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 .project-button {
     margin-top: 42px;

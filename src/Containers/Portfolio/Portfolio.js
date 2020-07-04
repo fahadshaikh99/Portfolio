@@ -18,12 +18,15 @@ export default function Skills() {
 
       <div className="Project-section">
           <div className="device-comp">
-            <MobileDevice />
-            <MobileDevice />
-            <MobileDevice />
-          </div>
-          <div className="project-button">
-            <Button text="View More Projects" href="#contact" />
+            <Fade duration={1000} right>
+              <MobileDevice appName="FITNESS TRACKING APP"/>
+            </Fade>
+            <Fade duration={1000} left>
+              <MobileDevice appName="BUS RIDES BOOKING APP"/>
+            </Fade>
+            <Fade duration={1000} up>
+              <MobileDevice appName="FITNESS TRACKING APP"/>
+            </Fade>
           </div>
       </div>
 
