@@ -27,14 +27,15 @@
     width: auto;
     background-color: black;
     
+    
 }
 .device-comp {
     display: flex;
     flex-direction: column;
 }
-.project-button {
-    margin-top: 42px;
-    align-items: center;
+.button-project {
+    display: flex;
     justify-content: center;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    
 }

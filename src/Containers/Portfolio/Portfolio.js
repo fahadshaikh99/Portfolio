@@ -28,6 +28,9 @@ export default function Skills() {
               <MobileDevice appName="FITNESS TRACKING APP"/>
             </Fade>
           </div>
+          <div className="button-project">
+            <Button text="More Project" newTab={true} href="google.com" />
+          </div>
       </div>
 
     </div>
