@@ -2,4 +2,4 @@
 # React Portfolio App
 ## Portfolio For Mobile Apps developer
 
-### Just go and change data according to your skills
+#### Please Added your assests into assests folder
