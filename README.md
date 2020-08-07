@@ -1,7 +1,6 @@
 
 # React Portfolio App
-## Portfolio For Mobile Apps developer
+## Portfolio For Mobile Apps developer and designer
 
-#### Please Add your assests into assests folder
 
 ##### React, HTML, CSS, JavaScript
