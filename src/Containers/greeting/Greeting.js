@@ -17,7 +17,7 @@ export default function Greeting() {
             </h1>
             <p className="greeting-text-p subTitle">I'm a Pakistan based React Native mobile apps <br />
             developer</p>
-            <p className="greeting-text-p2 subTitle">I enjoy coding, designing mobile apps and turning complex problem into simple.</p>
+            <p className="greeting-text-p2 subTitle">I enjoy coding, designing mobile apps and turning complex <br /> problem into simple.</p>
             <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
               <Button text="See my resume" newTab={true} href="google.com" />

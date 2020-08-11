@@ -44,12 +44,14 @@
     text-decoration: none;
     margin-top: 10px;
     line-height: normal;
+    margin-left: 4%;
   }
   .header .logo-name {
     font-family: 'Agustina';
     font-weight: bold;
     padding: 0 10px;
     color: white;
+    
   }
   
   /* menu */

@@ -52,7 +52,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "react-native",
+      skillName: "React-Native",
       fontAwesomeClassname: "fab fa-react"
     },
     {
@@ -94,7 +94,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Adobe Illustrator",
-      fontAwesomeClassname: "fab fa-bezier-curve"
+      fontAwesomeClassname: "fab fa-adobe"
     },
   
   ]

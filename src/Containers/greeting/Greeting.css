@@ -33,19 +33,21 @@
   .greeting-text {
     font-size: 70px;
     line-height: 1.1;
+    font-family: "Inter", sans-serif;
+    font-weight: 900;
   }
   
   .greeting-text-p {
     font-size: 25px;
     line-height: 25px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Inter", sans-serif;
     color: black;
   }
 
   .greeting-text-p2 {
     font-size: 20px;
     line-height: 25px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Inter", sans-serif;
     color: gray;
   }
 

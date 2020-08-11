@@ -8,7 +8,7 @@ export default function SoftwareSkill() {
     
       <div className="software-skills-main-div">
         <div className="skills-cont">
-          <h1>Development Skills</h1>
+          <h1>Part coder</h1>
           <ul className="dev-icons">
             {skillsSection.softwareSkills.map(skills => {
               return (
@@ -21,12 +21,12 @@ export default function SoftwareSkill() {
           </ul>
         </div>
 
-        <div>
+        <div className="chart-image">
           <img src="http://www.adhamdannaway.com/wp-content/themes/dannaway/images/pie-chart.png" />
         </div>
         
         <div className="skills-cont">
-          <h1>Design Skills</h1>
+          <h1>Part designer</h1>
           <ul className="dev-icons">
             {skillsSection.designSkills.map(skills => {
               return (

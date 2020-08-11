@@ -1,35 +1,28 @@
-.skills-main-div {
-    display: flex;
-  }
-  .skills-text-div {
-    margin-left: 50px;
-    /* flex-direction: column; */
-  }
-  
-  .skills-main-div > * {
-    flex: 1;
-    margin-bottom: 30px;
-  }
-  
-  /* .skills-image-div > img {
-    max-width: 100%;
-    height: auto;
-  } */
-  
-  .skills-heading {
-    font-size: 56px;
-    font-weight: 400;
-  }
-  .skills-title h1{
-      margin-bottom: 20px;
-      font-size: 40px;
-      font-weight: bold;
-  }
 
+  .main-skills {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 6%;
+    margin-right: 3%;
+    margin-top: 40px;
+    background-color: transparent;
+  }
+  
   .software-skills {
     margin-bottom: 10%;
+    margin-top: 6%;
   }
   
+
+
+
+
+
+
+
+
+
   /* Media Query */
   @media (max-width: 1380px) {
     .skills-heading {
