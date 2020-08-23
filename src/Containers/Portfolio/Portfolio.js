@@ -4,6 +4,7 @@ import {Fade} from "react-reveal";
 import MobileDevice from '../../components/MobileComp/MobileDevice';
 import Button from '../../components/Button/Button';
 
+
 export default function Skills() {
   return (
     <div className="protfolio" id="portfolio">
@@ -19,14 +20,18 @@ export default function Skills() {
       <div className="Project-section">
           <div className="device-comp">
             <Fade duration={1000} right>
-              <MobileDevice appName="FITNESS TRACKING APP"/>
+              <MobileDevice 
+                imagePath = {require('../../assets/MacBook.png')} 
+                appName="FITNESS TRACKING APP"
+              />
             </Fade>
-            <Fade duration={1000} left>
-              <MobileDevice appName="BUS RIDES BOOKING APP"/>
+            <Fade duration={1000} right>
+              <MobileDevice 
+                imagePath = {require('../../assets/MacBook1.png')} 
+                appName="FITNESS TRACKING APP"
+              />
             </Fade>
-            <Fade duration={1000} up>
-              <MobileDevice appName="FITNESS TRACKING APP"/>
-            </Fade>
+          
           </div>
           <div className="button-project">
             <Button text="More Project" newTab={true} href="google.com" />
