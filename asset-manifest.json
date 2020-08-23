@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf2e1e7a.chunk.css",
+    "main.js": "/static/js/main.ae6db399.chunk.js",
+    "main.js.map": "/static/js/main.ae6db399.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/js/2.7f25d039.chunk.js": "/static/js/2.7f25d039.chunk.js",
+    "static/js/2.7f25d039.chunk.js.map": "/static/js/2.7f25d039.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.41a69b0134ce76aade06717ea35a3ed3.js": "/precache-manifest.41a69b0134ce76aade06717ea35a3ed3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bf2e1e7a.chunk.css.map": "/static/css/main.bf2e1e7a.chunk.css.map",
+    "static/js/2.7f25d039.chunk.js.LICENSE.txt": "/static/js/2.7f25d039.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/Agustina.21f233e1.woff",
+    "static/media/MacBook.png": "/static/media/MacBook.619740e4.png",
+    "static/media/MacBook1.png": "/static/media/MacBook1.56c354bc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/js/2.7f25d039.chunk.js",
+    "static/css/main.bf2e1e7a.chunk.css",
+    "static/js/main.ae6db399.chunk.js"
+  ]
+}
