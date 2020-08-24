@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf2e1e7a.chunk.css",
-    "main.js": "/static/js/main.ae6db399.chunk.js",
-    "main.js.map": "/static/js/main.ae6db399.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
-    "static/js/2.7f25d039.chunk.js": "/static/js/2.7f25d039.chunk.js",
-    "static/js/2.7f25d039.chunk.js.map": "/static/js/2.7f25d039.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.41a69b0134ce76aade06717ea35a3ed3.js": "/precache-manifest.41a69b0134ce76aade06717ea35a3ed3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bf2e1e7a.chunk.css.map": "/static/css/main.bf2e1e7a.chunk.css.map",
-    "static/js/2.7f25d039.chunk.js.LICENSE.txt": "/static/js/2.7f25d039.chunk.js.LICENSE.txt",
-    "static/media/Header.css": "/static/media/Agustina.21f233e1.woff",
-    "static/media/MacBook.png": "/static/media/MacBook.619740e4.png",
-    "static/media/MacBook1.png": "/static/media/MacBook1.56c354bc.png"
+    "main.css": "/Portfolio/static/css/main.8714a802.chunk.css",
+    "main.js": "/Portfolio/static/js/main.ae6db399.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.ae6db399.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.b9da9406.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b9da9406.js.map",
+    "static/js/2.7f25d039.chunk.js": "/Portfolio/static/js/2.7f25d039.chunk.js",
+    "static/js/2.7f25d039.chunk.js.map": "/Portfolio/static/js/2.7f25d039.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.bd8c35922f7d62b9744fa03262b75afe.js": "/Portfolio/precache-manifest.bd8c35922f7d62b9744fa03262b75afe.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.8714a802.chunk.css.map": "/Portfolio/static/css/main.8714a802.chunk.css.map",
+    "static/js/2.7f25d039.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.7f25d039.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/Portfolio/static/media/Agustina.21f233e1.woff",
+    "static/media/MacBook.png": "/Portfolio/static/media/MacBook.619740e4.png",
+    "static/media/MacBook1.png": "/Portfolio/static/media/MacBook1.56c354bc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e312f208.js",
+    "static/js/runtime-main.b9da9406.js",
     "static/js/2.7f25d039.chunk.js",
-    "static/css/main.bf2e1e7a.chunk.css",
+    "static/css/main.8714a802.chunk.css",
     "static/js/main.ae6db399.chunk.js"
   ]
 }
