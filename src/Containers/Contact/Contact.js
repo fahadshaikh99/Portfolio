@@ -5,7 +5,7 @@ import {Fade} from "react-reveal";
 
 export default function Contact () {
     return(
-        <Fade bottom duration={1000} distance="40px">
+     
             <div className="contact-main" id="contact">
                 <div className="detail-main">   
                     <Fade right duration={1000} >
@@ -43,6 +43,6 @@ export default function Contact () {
                     </Fade>
                 </div>
             </div>
-        </Fade>
+        
     );
 }
