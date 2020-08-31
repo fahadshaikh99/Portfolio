@@ -25,7 +25,7 @@
 
 .Project-section {
     width: auto;
-    background-color: white;
+    background-color:white;
     
     
 }
@@ -40,4 +40,17 @@
     margin-bottom: 20px;
     align-items: center;
     
+}
+.Title_and_Image {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+.Title_and_Image h1{
+    font-size: 42px;
+    margin-top: 4%;
+    font-weight: bolder;
+    margin-left: 2%;
+
 }

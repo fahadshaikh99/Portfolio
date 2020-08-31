@@ -19,25 +19,51 @@ export default function Skills() {
 
       <div className="Project-section">
           <div className="device-comp">
-            <Fade duration={1000} right>
-              <MobileDevice 
-                imagePath = "https://ucea96dd17a66e9aabe0d71ec9ee.previews.dropboxusercontent.com/p/thumb/AA6ZWCsax1gtR1TMvPwCYbNrqsILxocgLX1Pstko3dMCOa1C_TB4yyEHurAiCihtwZzbPPZ1Rcm258pisJ5vkXTgxZ5elIOuL5mGyK2IPU1EByoBvrlFFDZ-VRtU95AKG6OygAAmXDMIcUH8OSNkCqxGxlgi-LhZiDImQ6h0B-Vec7UrfadGOiot6EEm4N4HZRV1gPuKR0AJ9duQe5c1ifi2sJ-eYMkCAPz0c-ahWmJlZ3oE18ronDFQwTD1TRnwBDJOsJeOt0HS40hKLwY72_wphUPfBphK8zALEOIUbhMyTXjy02sFB2iVjyrSf3O2Wrwy4duLE4stuvJlvCJHV1T7NviOQtkmBnR5wkqguCaSZJ_NfzEW2KQhoTEpcIslkZMuugV8onsgl9h2-QGg0Uca/p.png?fv_content=true&size_mode=5" 
-                appName="FITNESS TRACKING APP"
-              />
-            </Fade>
-            <Fade duration={1000} right>
-              <MobileDevice 
-                imagePath = "https://ucf1818fb19be6ff3b207e7fd29c.previews.dropboxusercontent.com/p/thumb/AA7LKrA2HMjSzzadDbb0Gf_h04GTutKL2CoK5eFuXAfkuh1VVeVPNRClReKb87CnDSFcQZBEObOXcrbjoa2M7Oq09-46jzO6th7BsEMql8Ac4_9A6CrK4Y2t2UeGCh6SKkTklw4WiWE8r_fVljstOqvb3SLqelFg0C2jZN3GNH8QmERZBNeW1aFcsJ5eW8hEhUr1cQe8PyjGLCtoaAdE49AoT4rYmfmDiDDngDCJQtBZ7__XE1jic0HcJHFdJGJ0K9EhNsp-4Rxannh2i3YhhO7nvy4neoOOqya8v6zaeJd3E34-XSnSjXa25w03OU4r2XPG7jON9HsXfMmMMB171qp_hs-DjzARp9_2jR5VbYpfro94fKhB_YOMve1YbtuvwaTd5zUmK9-qgpNMGquEgTtn/p.png?fv_content=true&size_mode=5"
-                appName="FITNESS TRACKING APP"
-              />
-            </Fade>
+            <div className="Title_and_Image">
+              <Fade duration={1000} right>
+                <h1>
+                  Tracking App 
+                  <h3>
+                    In This App Users can track live location using Google Map(Android) and Apple Map(IOS).
+                  </h3>
+                </h1>
+                
+                <MobileDevice 
+                  imagePath = "https://uc594996f109eb45f53a7eb98701.previews.dropboxusercontent.com/p/thumb/AA6J2iiq6a5-QofqzA5ASPp8KxFRdgbfvhED50M2nJnJqoXx16aEI2LwLOi6st4IS7WM1RAWj83vwrhIpdNGyCvRfafxglhZskU_SIWRGxj_fxIadQxp8cEJqkGXHYPPc0DkutcAXl3sqWPMIprYcTcW91VhIFuF7Q7ST_Lu8emkMWnVf3nl-3S9CiAu9snA9uUp43hSqcwRlowVJhyJuPRNzrxHmD3oSP6iUa-u_YtXnJOl_gilV_lDlb795u4N96nnWRcBuayHgR1nVmIKc7MWcfqErebuNmFpWXp7z5W5IkbOkVvyCXLuLrjc_H8lpv-SM7N7zc4y2fwKa0veJqtVb_BGBic8oY_psTaN8Zkrz0zmhSkKOzpV2ZNWiz_hLCPM8lKRBFWCuT-8LicpKGGP/p.png?fv_content=true&size_mode=5" 
+                  appName="FITNESS TRACKING APP"
+                />
+              </Fade>
+
+              
+            </div>
+          
+          </div>
+
+          <div className="device-comp">
+            <div className="Title_and_Image">
+              <Fade duration={1000} right>
+                <h1>
+                  AR- GAMES
+                  <h3>
+                    In this app users can play augmented reality games using instagram filters
+                  </h3>
+                </h1>
+                
+                <MobileDevice 
+                  imagePath = "https://ucae71b81b04f6adc01b7966702f.previews.dropboxusercontent.com/p/thumb/AA41yjA8v0lPoieG9v3ffpupndjAaFTBN4ulfIdYY7Mtb1l9KZbjHCd6sZmVbvQoSgGhLjmsA5fayyPP_C8wfwY-iPsTGAW5dpU-5ls7Ybv2L-u_HNyICcFPys9rvOrqsdmWSXY7Y91MdaM8nZhVmWZU_m6EHrqPKaTGurRdJG-fzEwgKqQKw4Z2iZju8fdz1JVMEu_wSIYJMTC1PrLV1By4QC1nsQiiIzYBvwEBElmfmBp9tEkISshiXkAEm7bU24Jor5RLhcQvac1YcfOKoFwq348399irLmOpGwq8aFzoNIc0dM3vtJu5RbxCy60KXvaPynFCI6H3BkhFACf9Cn6Lv78szNs0u9d9VmivjkelYFW_2JYYAA8eMzrUHPVc0wy2XMVbkDJ_m-Opc6GaIAtW/p.png?fv_content=true&size_mode=5" 
+                  appName="FITNESS TRACKING APP"
+                />
+              </Fade>
+
+              
+            </div>
           
           </div>
 
       </div>
       <div className="button-project">
-            <Button text="More Project" newTab={true} href="google.com" />
-          </div>
+          <Button text="More Project" newTab={true} href="https://github.com/fahadshaikh99" />
+      </div>
 
     </div>
   );
