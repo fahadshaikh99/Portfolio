@@ -29,13 +29,19 @@ export default function Contact () {
                             </p>
                             <div className="social-contact">
                                 <div className="github-image">
-                                    <img src="https://pcapplusplus.github.io/resources/logo-github-invert.png" />
+                                    <a href="https://github.com/fahadshaikh99">
+                                        <img src="https://pcapplusplus.github.io/resources/logo-github-invert.png" />
+                                    </a>
                                 </div>
                                 <div className="linkdn-image">
-                                    <img src="https://www.transparentpng.com/thumb/linkedin/blue-box-social-circle-color-linkedin-transparent-images--17.png" />
+                                    <a href="https://www.linkedin.com/in/fahadshaikh99/" >
+                                        <img src="https://www.transparentpng.com/thumb/linkedin/blue-box-social-circle-color-linkedin-transparent-images--17.png" />
+                                    </a>
                                 </div>
                                 <div className="linkdn-image">
-                                    <img src="https://www.immersionrecovery.com/wp-content/uploads/2018/10/best-twitter-bird-transparent-background-esec-fse-2017-twitter-bird-transparent-background.png" />
+                                    <a href="https://twitter.com/" >
+                                        <img src="https://img.pngio.com/black-twitter-icon-transparent-background-195407-free-icons-library-twitter-logo-white-transparent-798_825.jpg" />
+                                    </a>
                                 </div>  
 
                             </div>

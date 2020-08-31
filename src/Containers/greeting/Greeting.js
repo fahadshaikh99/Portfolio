@@ -20,7 +20,7 @@ export default function Greeting() {
             <p className="greeting-text-p2 subTitle">I enjoy coding, designing mobile apps and turning complex <br /> problem into simple.</p>
             <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
-              <Button text="See my resume" newTab={true} href="google.com" />
+              <Button text="See my resume" newTab={true} href="https://drive.google.com/file/d/1WrYfhf7nvV_FoXTIJ_ADkwGkK46ae3_l/view" />
             </div>
           </div>
         </div>
