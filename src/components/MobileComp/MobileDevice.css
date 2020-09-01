@@ -32,3 +32,14 @@
     opacity: 80%;
 } 
 
+@media (max-width: 768px) {
+
+    
+.app-image img{
+   
+    opacity: 95%;
+    width: 100%;
+   
+}
+
+} 
