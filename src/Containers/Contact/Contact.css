@@ -28,9 +28,10 @@
       font-size: 20px;
   }
   .contact-details {
-      margin-top: 11%;
+      margin-top: 6%;
       font-size: 21px;
       color: rgb(129, 129, 129);
+      margin-right: 50%;
   }
   .email-p {
       font-size: 21px;
@@ -61,30 +62,11 @@
 
   
 
-/*   
-  .name-text {
-    font-size: 70px;
-    line-height: 1.1;
-  }
-  
-  .name-text-p {
-    font-size: 25px;
-    line-height: 25px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: black;
-    color: white;
-  }
 
-  .name-text-p2 {
-    font-size: 20px;
-    line-height: 25px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: gray;
-  } */
 
 
    
-  /* @keyframes wave {
+ @keyframes wave {
     0% {
       transform: rotate(0deg);
     }
@@ -107,30 +89,42 @@
       transform: rotate(0deg);
     }
   }
-   */
-  /* Media Query */
-  /* @media (max-width: 1380px) {
-    .greeting-text {
-      font-size: 50px;
+ 
+ @media (max-width: 1380px) {
+  .detail-main {
+    display: flex;
+    margin-left: 25%;
+    }
+    .name-text {
+      font-size: 40px;
     }
     .greeting-text-p {
       font-size: 20px;
     }
+    .contact-details {
+      font-size: 20px;
+      margin-right: 30%;
+    }
+    .email-p {
+      font-size: 20px;
+     
+    }
   }
   @media (max-width: 768px) {
-    .button-greeting-div {
-      justify-content: space-around;
-    }
-    .greeting-text {
-      font-size: 30px;
-      text-align: center;
-    }
-    .greeting-text-p {
-      font-size: 16px;
-      line-height: normal;
-      text-align: center;
-    }
-    .greeting-main {
-      display: block;
-    }
-  } */
+    .detail-main {
+      display: flex;
+      margin-left: 8%;
+      }
+      .name-text {
+        font-size: 30px;
+      }
+      .contact-details {
+        font-size: 20px;
+        margin-right: 5%;
+      }
+      .email-p {
+        margin-top: 7%;
+        font-size: 17px;
+       
+      }
+  } 

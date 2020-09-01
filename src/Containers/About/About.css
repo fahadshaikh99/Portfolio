@@ -2,7 +2,7 @@
     display: flex;
     background-color: rgb(34, 34, 34);
     justify-content: center;
-    align-items: center;
+    
     flex-direction: column;
     width: 100%;
     padding: 20px 10px;
@@ -35,30 +35,59 @@
 
 
 
-/* 
-.Portfolio-title {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: black;
-    width: 100%;
-    flex-direction: column;
-}
-
-
-.Portfolio-title p {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-}
-
-.Project-section {
-    width: auto;
-    background-color: rgb(246, 120, 250);
-    height: 700px;
-}
-.device-comp {
-    display: flex;
-    flex-direction: row;
-} */
+@keyframes wave {
+    0% {
+      transform: rotate(0deg);
+    }
+    10% {
+      transform: rotate(-10deg);
+    }
+    20% {
+      transform: rotate(12deg);
+    }
+    30% {
+      transform: rotate(-10deg);
+    }
+    40% {
+      transform: rotate(9deg);
+    }
+    50% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+ 
+ @media (max-width: 1380px) {
+    .About-section {
+        
+    } 
+    .title h1{
+     
+    }
+    .details {
+        font-size: 20px;
+        margin-left: 23%;
+        margin-right: 23%;
+        margin-bottom: 23%;
+    }
+  }
+  @media (max-width: 768px) {
+    .About-section {
+        padding: 5px 5px;
+     
+    }
+    
+    .title h1{
+     margin-bottom: 10%;
+    }
+    .details {
+        font-size: 5px;
+        word-spacing: 0px;
+        margin-left: 5%;
+        margin-right: 5%;
+        font-weight: 200;
+        margin-bottom: 20%;
+    }
+  } 

@@ -21,7 +21,7 @@ export default function Contact () {
                             <p className="location-text">
                                 Karachi, Pakistan
                             </p>
-                            <p className="contact-details">If you like my work and have some cool project to <br /> work on, get in touch with me at
+                            <p className="contact-details">If you like my work and have some cool project to work on, get in touch with me at
                             </p>
                             <p className="email-p">fahadnaeemsheikh@outlook.com
                             </p>
