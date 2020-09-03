@@ -29,7 +29,7 @@ export default function Skills() {
                 </h1>
                 
                 <MobileDevice 
-                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/Images/LicpKGGP.png" 
+                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/LicpKGGP.png" 
                   appName="FITNESS TRACKING APP"
                 />
               </Fade>
@@ -50,7 +50,7 @@ export default function Skills() {
                 </h1>
                 
                 <MobileDevice 
-                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/Images/c6GaIAtW.png" 
+                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/c6GaIAtW.png" 
                   appName="FITNESS TRACKING APP"
                 />
               </Fade>
