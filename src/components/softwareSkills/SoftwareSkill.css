@@ -1,23 +1,20 @@
 .dev-icons {
     padding-left: 0;
-    list-style: none;
+
     font-size: 4.5rem;
-    margin-bottom: 0px;
-    margin-top: 0px;
+  
     text-align: center;
   }
   
   .software-skill-inline {
     display: inline-block;
-    margin-right: 20px;
+    padding: 4%;
     margin-bottom: 20px;
   }
   .dev-icons-design {
-    padding-left: 0;
+  
     list-style: none;
     font-size: 4.5rem;
-    margin-bottom: 0px;
-    margin-top: 0px;
     text-align: center;
     display: flex;
       
@@ -41,7 +38,7 @@
     color: #645beb;
   }
   .skills-title h1{
-    text-align: center;
+    
     margin-top: 10px;
   }
 
@@ -87,5 +84,29 @@
 
 }
 @media (max-width: 768px) {
-
+  .software-skills-main-div {
+    display: flex;
+    flex-direction: column;
+  }
+  .software-skill-inline {
+    display: inline-block;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    
+  }
+  .skills-cont {
+    width: 100%;
+  }
+    
+  .software-skill-inline {
+    display: inline-block;
+    margin-right: 0px;
+    margin-bottom: 20px;
+  }
+  .chart-image img{
+  
+    width: 90%;
+    margin-bottom: 15%;
+    
+  }
 } 
