@@ -6,6 +6,7 @@ import Portfolio from './Containers/Portfolio/Portfolio';
 import About from './Containers/About/About';
 import Contact from './Containers/Contact/Contact';
 import MySkills from './Containers/MySkills/MySkills';
+import edit from './Containers/Editing_Skills.js/edit';
 
 const App = () => {
     return(
@@ -16,6 +17,7 @@ const App = () => {
           <Portfolio />
           <About />
           <Contact />
+         
         </div>
         
     );

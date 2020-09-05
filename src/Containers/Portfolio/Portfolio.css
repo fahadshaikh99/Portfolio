@@ -54,6 +54,18 @@
     margin-left: 2%;
 
 }
+.title_github {
+  display: flex;
+  flex-direction: column;
+}
+
+.github-img img{
+  height: 70px;
+  width: 70px;
+  margin-left: 33%;
+  margin-top: 70%;
+
+}
 
 
    

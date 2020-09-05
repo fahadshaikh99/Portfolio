@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import {Fade} from "react-reveal";
 import MobileDevice from '../../components/MobileComp/MobileDevice';
-import Button from '../../components/Button/Button';
+ import Button from '../../components/Button/Button';
 
 
 export default function Skills() {
@@ -21,20 +21,27 @@ export default function Skills() {
           <div className="device-comp">
             <div className="Title_and_Image">
               <Fade duration={1000} right>
-                <h1>
-                  Tracking App 
-                  <h3>
-                    In This App Users can track live location using Google Map(Android) and Apple Map(IOS).
-                  </h3>
-                </h1>
-                
+                <div className="title_github">
+                  <h1>
+                    Tracking App 
+                    <h3>
+                      In This App Users can track live location using Google Map(Android) and Apple Map(IOS).
+                      
+                    </h3>
+                    
+                  </h1>
+                  <div className="github-img">
+                    <a href="https://github.com/fahadshaikh99">
+                      <img src="https://image.flaticon.com/icons/png/512/25/25231.png" /> 
+                    </a>
+                  </div>
+                </div>
+   
                 <MobileDevice 
                   imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/LicpKGGP.png" 
                   appName="FITNESS TRACKING APP"
                 />
-              </Fade>
-
-              
+              </Fade>              
             </div>
           
           </div>
@@ -42,12 +49,20 @@ export default function Skills() {
           <div className="device-comp">
             <div className="Title_and_Image">
               <Fade duration={1000} right>
-                <h1>
-                  AR- GAMES
-                  <h3>
-                    In this app users can play augmented reality games using instagram filters
-                  </h3>
-                </h1>
+                <div className="title_github">
+                  <h1>
+                    AR- GAMES
+                    <h3>
+                      In this app users can play augmented reality games using instagram filters
+                    </h3>
+                  </h1>
+                  <div className="github-img">
+                      <a href="https://github.com/fahadshaikh99">
+                        <img src="https://image.flaticon.com/icons/png/512/25/25231.png" /> 
+                      </a>
+                  
+                  </div>
+                </div>
                 
                 <MobileDevice 
                   imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/c6GaIAtW.png" 
