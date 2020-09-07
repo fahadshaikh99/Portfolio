@@ -18,6 +18,32 @@ export default function Skills() {
       </div>
 
       <div className="Project-section">
+        <div className="device-comp">
+              <div className="Title_and_Image">
+                <Fade duration={1000} right>
+                  <div className="title_github">
+                    <h1>
+                      Tracking App 
+                      <h3>
+                        In This App Users can track live location using Google Map(Android) and Apple Map(IOS).                     
+                      </h3>             
+                    </h1>
+                    <div className="github-img">
+                      <a href="https://github.com/fahadshaikh99">
+                        <img src="https://image.flaticon.com/icons/png/512/25/25231.png" /> 
+                      </a>
+                    </div>
+                  </div>
+    
+                  <MobileDevice 
+                    imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/LicpKGGP.png" 
+                    appName="FITNESS TRACKING APP"
+                  />
+                </Fade>              
+              </div>
+            
+            </div>
+
           <div className="device-comp">
             <div className="Title_and_Image">
               <Fade duration={1000} right>
@@ -41,7 +67,6 @@ export default function Skills() {
                 />
               </Fade>              
             </div>
-          
           </div>
 
           <div className="device-comp">
