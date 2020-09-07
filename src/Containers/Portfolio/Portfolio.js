@@ -25,10 +25,8 @@ export default function Skills() {
                   <h1>
                     Tracking App 
                     <h3>
-                      In This App Users can track live location using Google Map(Android) and Apple Map(IOS).
-                      
-                    </h3>
-                    
+                      In This App Users can track live location using Google Map(Android) and Apple Map(IOS).                     
+                    </h3>             
                   </h1>
                   <div className="github-img">
                     <a href="https://github.com/fahadshaikh99">

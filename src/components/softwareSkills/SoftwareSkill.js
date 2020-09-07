@@ -22,7 +22,7 @@ export default function SoftwareSkill() {
         </div>
 
         <div className="chart-image">
-          <img src="https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/pie-chart.png" />
+          <img src="https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/ChartFile.png" />
         </div>
         
         <div className="skills-cont">
