@@ -23,9 +23,10 @@ export default function Skills() {
                 <Fade duration={1000} right>
                   <div className="title_github">
                     <h1>
-                      Tracking App 
+                      Connectee
                       <h3>
-                        In This App Users can track live location using Google Map(Android) and Apple Map(IOS).                     
+                        Connectee is a social networking app. In connectee you can post your images, everyone can comment or like your
+                        pics, users can vist each others profile.                     
                       </h3>             
                     </h1>
                     <div className="github-img">
@@ -36,7 +37,7 @@ export default function Skills() {
                   </div>
     
                   <MobileDevice 
-                    imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/LicpKGGP.png" 
+                    imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/connectee.png" 
                     appName="FITNESS TRACKING APP"
                   />
                 </Fade>              
