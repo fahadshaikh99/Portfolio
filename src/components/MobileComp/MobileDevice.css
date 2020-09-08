@@ -4,10 +4,11 @@
     align-items: center;
     
 }
-.app-image {
+.app-image img{
     display: flex;
     padding: 20px;
-    
+    margin-right: 3%;
+    width: 1000px;
  
 }
 

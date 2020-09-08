@@ -51,7 +51,8 @@
     font-size: 42px;
     margin-top: 4%;
     font-weight: bolder;
-    margin-left: 2%;
+    margin-left: 5%;
+
 
 }
 .title_github {
@@ -141,7 +142,7 @@
 .github-img img{
   height: 40px;
   width: 40px;
-  margin-left: 6%;
+  margin-left: 5%;
   margin-top: 0%;
 
 }

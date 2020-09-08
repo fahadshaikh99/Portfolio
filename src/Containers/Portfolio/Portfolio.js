@@ -30,7 +30,7 @@ export default function Skills() {
                       </h3>             
                     </h1>
                     <div className="github-img">
-                      <a href="https://github.com/fahadshaikh99">
+                      <a href="https://github.com/fahadshaikh99/instagram_clone">
                         <img src="https://image.flaticon.com/icons/png/512/25/25231.png" /> 
                       </a>
                     </div>
@@ -56,14 +56,14 @@ export default function Skills() {
                     </h3>             
                   </h1>
                   <div className="github-img">
-                    <a href="https://github.com/fahadshaikh99">
+                    <a href="https://github.com/fahadshaikh99/TrackApp" newTab={true}>
                       <img src="https://image.flaticon.com/icons/png/512/25/25231.png" /> 
                     </a>
                   </div>
                 </div>
    
                 <MobileDevice 
-                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/LicpKGGP.png" 
+                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/Track_newVersion.png" 
                   appName="FITNESS TRACKING APP"
                 />
               </Fade>              
@@ -81,7 +81,7 @@ export default function Skills() {
                     </h3>
                   </h1>
                   <div className="github-img">
-                      <a href="https://github.com/fahadshaikh99">
+                      <a href="https://github.com/fahadshaikh99/ArGamesApp">
                         <img src="https://image.flaticon.com/icons/png/512/25/25231.png" /> 
                       </a>
                   
@@ -89,7 +89,7 @@ export default function Skills() {
                 </div>
                 
                 <MobileDevice 
-                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/c6GaIAtW.png" 
+                  imagePath = "https://raw.githubusercontent.com/fahadshaikh99/Portfolio/master/github_host/new_Ar_App.png" 
                   appName="FITNESS TRACKING APP"
                 />
               </Fade>
