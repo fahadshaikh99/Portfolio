@@ -14,7 +14,7 @@
   .dev-icons-design {
   
     list-style: none;
-    font-size: 4.5rem;
+    font-size: 4.0rem;
     text-align: center;
     display: flex;
       
@@ -109,5 +109,12 @@
     margin-bottom: 15%;
     margin-left: 5%;
     
+  }
+  .dev-icons-design {
+  
+
+    font-size: 200px;
+
+      
   }
 } 
